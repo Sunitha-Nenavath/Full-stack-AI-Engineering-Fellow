@@ -4,12 +4,21 @@ Fellow: Nenavath Sunitha
 Program: Dev Weekends Fellowship 2026
 Task: 0. Warm Up (Worth 5 points)
 LeetCode Profile: https://leetcode.com/u/Nenavath_Sunitha_02/
-Problems Solved: 9 / 9 ✅
+Problems Solved: 9 / 9 
 
 
 Problem Tracker
 
-#ProblemDifficultyStatusApproach1Running Sum of 1d ArrayEasy✅ SolvedPrefix sum2Find the Highest AltitudeEasy✅ SolvedPrefix sum + max3Squares of a Sorted ArrayEasy✅ SolvedTwo pointers4Move ZeroesEasy✅ SolvedTwo pointers5Jewels and StonesEasy✅ SolvedHash set lookup6Fizz BuzzEasy✅ SolvedModulo conditions7Valid AnagramEasy✅ SolvedCharacter frequency count8Reverse Vowels of a StringEasy✅ SolvedTwo pointers9Valid PalindromeEasy✅ SolvedTwo pointers
+#ProblemDifficultyStatusApproach
+1 Running Sum of 1d ArrayEasy✅ SolvedPrefix sum
+2 Find the Highest AltitudeEasy✅ SolvedPrefix sum + max
+3 Squares of a Sorted ArrayEasy✅ SolvedTwo pointers
+4 Move ZeroesEasy✅ SolvedTwo pointers
+5 Jewels and StonesEasy✅ SolvedHash set lookup
+6 Fizz BuzzEasy✅ SolvedModulo conditions
+7 Valid AnagramEasy✅ SolvedCharacter frequency count
+8 Reverse Vowels of a StringEasy✅ SolvedTwo pointers
+9 Valid PalindromeEasy✅ SolvedTwo pointers
 
 
 1. Running Sum of 1d Array
